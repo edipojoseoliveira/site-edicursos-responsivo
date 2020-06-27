@@ -72,6 +72,10 @@ nav span {
     padding: 15px;
 }
 
+nav li {
+    padding-right: 75px;
+}
+
 .menu-escondido {
     max-width: 0;
 }
